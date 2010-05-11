@@ -1022,7 +1022,6 @@
 				43F7ABF21129553F00CF5B3C /* include */,
 				43F7AC551129553F00CF5B3C /* src */,
 				43F7ACC21129553F00CF5B3C /* sys */,
-				43F7ADC51129554200CF5B3C /* win */,
 			);
 			name = nethack;
 			sourceTree = "<group>";
@@ -1430,14 +1429,6 @@
 				43F7AD5F1129554100CF5B3C /* unixunix.c */,
 			);
 			path = unix;
-			sourceTree = "<group>";
-		};
-		43F7ADC51129554200CF5B3C /* win */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = win;
-			path = ..;
 			sourceTree = "<group>";
 		};
 		43F7ADF41129554200CF5B3C /* cocoa */ = {
